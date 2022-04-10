@@ -1,2 +1,10 @@
 # C-ile-dosyalama
- Farklı dosya tipleri üzerinde okuma yazma işlemlerinin yapılması.İndexleme yöntemi ve binary search algoritmalarının kullanılması.
+ Bu projede C dilinde dosyalama
+fonksiyonlarıyla farklı tip dosyalara
+yazma, okuma işlemlerinin pratiğinin
+yapılması, yoğun indeks yapısı ile
+dosyanın baştan sona okunmaması için
+indeksleme yöntemi ve ikili arama
+algoritması kullanarak daha hızlı ve az disk
+erişimi sağlayıp verilere bu şekilde daha
+kolay erişmemiz amaçlanmıştır.
